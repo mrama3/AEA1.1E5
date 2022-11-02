@@ -1,5 +1,5 @@
 <?php
 
-	echo "Aquest és el fitxer index.php"; 
+	echo "Aquest es el fitxer index.php"; 
 
 ?>
